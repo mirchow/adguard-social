@@ -1,0 +1,3 @@
+! Disable youtube.com during the work hours
+!
+||youtube.com^
